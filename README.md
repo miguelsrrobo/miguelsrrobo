@@ -21,11 +21,11 @@
     </a>
 </p>
 
-<details>
-    <summary>Mais Sobre Mim</summary>
-    <ul>
-        <li>🖥 Possuo conhecimento na linguagens C/C++ e Python</li>
-        <li>📚 Estudando PHP | Algoritmos | Dev Web | Inglês | Python </li>
-        <li>📱 Estou estudando desenvolvimento mobile com React.</li>
-    </ul>
-</details>
+<ul>
+    <li>🖥 Possuo conhecimento na linguagens C/C++ e Python</li>
+    <li>📚 Estudando PHP | Algoritmos | Dev Web | Inglês | Python </li>
+    <li>📱 Estou estudando desenvolvimento mobile com React.</li>
+</ul>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsrrobo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsrrobo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
