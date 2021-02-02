@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**miguelsrrobo/miguelsrrobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, Mundo 
 
-Here are some ideas to get you started:
+ Sou aluno de Engenharia de Computação na Universidade Federal de Santa Catarina, campus Araranguá, des de 2017, e tambem, um desenvolvedor apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.
+ 
+<p align="center">
+    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
+    <br/><br/>
+    <a href="https://github.com/miguelsrrobo" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
+    </a>
+    <a href="https://t.me/miguel_g_silvestre" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/miguel-garcia-silvestre-3265ab19b/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
+    </a>
+    <a href="mailto:miguel.g.silvestre67@protonmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+    <summary>Mais Sobre Mim</summary>
+    <ul>
+        <li>🖥 Possuo conhecimento na linguagens C/C++ e Python</li>
+        <li>📚 Estudando PHP | Algoritmos | Dev Web | Inglês | Python </li>
+        <li>📱 Estou estudando desenvolvimento mobile com React.</li>
+    </ul>
+</details>
