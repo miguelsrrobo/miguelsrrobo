@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Olá, Mundo 
+### Olá, Mundo 👋
 
  Sou aluno de Engenharia de Computação na Universidade Federal de Santa Catarina, campus Araranguá, des de 2017, e tambem, um desenvolvedor apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.
  
