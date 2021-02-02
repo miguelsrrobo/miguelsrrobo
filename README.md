@@ -1,6 +1,6 @@
 ### Olá, Mundo 👋
 
- Sou aluno de Engenharia de Computação na Universidade Federal de Santa Catarina, campus Araranguá, des de 2017, e tambem, um desenvolvedor apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.
+ Sou aluno de Engenharia de Computação na Universidade Federal de Santa Catarina, des de 2017, e tambem, um desenvolvedor apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.
  
 <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
