@@ -21,7 +21,7 @@
 
 <ul>
     <li>🖥 Possuo conhecimento na linguagens C/C++ e Python</li>
-    <li>📚 Estudando PHP | Algoritmos | Dev Web | Inglês | Python </li>
+    <li>📚 Estudando PHP | Algoritmos | Dev Web | Inglês </li>
     <li>📱 Estou estudando desenvolvimento mobile com React.</li>
 </ul>
 
