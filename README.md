@@ -21,8 +21,7 @@
 
 <ul>
     <li>🖥 Possuo conhecimento na linguagens C/C++ e Python</li>
-    <li>📚 Estudando PHP | Algoritmos | Dev Web | Inglês </li>
-    <li>📱 Estou estudando desenvolvimento mobile com React.</li>
+    <li>📚 Estudando Elixir | Algoritmos | Dev Web | Inglês </li>
 </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelsrrobo&show_icons=true&theme=radical)
