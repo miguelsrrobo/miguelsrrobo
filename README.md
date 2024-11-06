@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hi there, I'm Gabriel 👋
+### Hi there, I'm Miguel 👋
 
 Welcome to my GitHub profile! 
 
