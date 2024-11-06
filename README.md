@@ -32,9 +32,9 @@ Welcome to my GitHub profile!
 
 If you'd like to get in touch with me, feel free to follow me on social media or shoot me an email.
 
-- LinkedIn: [www.linkedin.com/in/gabriel-g-a-valera]
-- HackerRank: [https://www.hackerrank.com/profile/gabrielgavalera]
-- Portfolio: [https://portfolioweb1-kuzrbxnn.b4a.run]
+- LinkedIn: [https://www.linkedin.com/in/miguel-garcia-silvestre-3265ab19b/]
+- HackerRank: [https://www.hackerrank.com/profile/guegosilvestre67]
+- Portfolio: []
 
   
 Thanks for visiting my profile! 
