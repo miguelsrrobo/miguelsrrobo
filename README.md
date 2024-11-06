@@ -7,8 +7,7 @@ Welcome to my GitHub profile!
 ## About Me 
 
 - 🌱 I’m currently improve IA techniques and backend.
-<--- 💬 Ask me about Computer Vision, NLP, Machine Learning and Backend.--->
-- 📫 How to reach me: gabrielgavalera@gmail.com.
+- 📫 How to reach me: guegosilvestre67@gmail.com.
 
 ## Languages:
 
