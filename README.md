@@ -11,9 +11,9 @@ Welcome to my GitHub profile!
 
 ## Languages:
 
-| Python3 | C | C++ | JS |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rust-lang-ru/rust-www/refs/heads/master/favicon.ico" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+| Python3 | C | C++ | Rust | Verilog |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rust-lang-ru/rust-www/refs/heads/master/favicon.ico" title="Rust" alt="Rust" width="55" height="55"/> | <img src="https://www.svgrepo.com/show/374163/verilog.svg" title="Rust" alt="Rust" width="55" height="55"/> |
 
 ## Frameworks and Libraries:
 
